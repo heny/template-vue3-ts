@@ -1,4 +1,7 @@
 # vue3-ts
+一个基于vue3的typescript模板，使用时建议直接fork，可以随时关注模板的更新
+
+## 安装功能
 - stylelint
 - eslint
 - prettier
@@ -98,7 +101,7 @@ import MarkdownPage from '@/docs/Test.md'
 ```
 
 5. 添加一个新的路由
-```json
+```js
 {
   name: 'Markdown',
   path: '/markdown',
